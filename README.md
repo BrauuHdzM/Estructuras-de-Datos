@@ -1,2 +1,2 @@
-# Estructuras-de-Datos
-Programas relacionados a las estructuras de datos
+# Lista ascendente con nodos de cabecera
+Programas relacionado a una de las estructuras de datos
